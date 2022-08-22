@@ -5,7 +5,7 @@
 * OpenGL
 
 ## usage
-Prepare the data file into the directory `data`, we could download the [MNIST dastset](https://lvdmaaten.github.io/tsne/code/mnist.zip) from the author of t-SNE.
+Prepare the data file in the `data` directory, we could download the [MNIST dastset](https://lvdmaaten.github.io/tsne/code/mnist.zip) from the author of t-SNE.
 
 We implemented Kmeans and the visualization part with C++ and OpenGL, then incorporated the official implementation of t-SNE into our codes.
 
