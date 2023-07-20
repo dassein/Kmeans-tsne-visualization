@@ -1,4 +1,4 @@
-# Visualize Kmeans clusters after t-SNE
+# Visualization of Kmeans clusters by t-SNE
 
 ## dependencies
 * Qt5
